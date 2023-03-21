@@ -7,7 +7,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Approach
 
-- Use the D3 library to read in samples from the URL dataset
+- Used the D3 library to read in samples from the URL dataset
 - Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in each study participant
 - Created a bubble chart that displays all the OTU samples collected from the study participant
 - Created a gauge chart that depicts the number of weekly belly button washings for each participant
