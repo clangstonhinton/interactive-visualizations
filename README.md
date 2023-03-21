@@ -17,7 +17,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 (5) Displayed the metadata (demographic information) for each participant including: ID, ethnicity, age, gender, location and washing frequency
 
-(5) All the charts and metadata changes when a new study participant is selected in the dropdown menu
+(6) All the charts and metadata changes when a new study participant is selected in the dropdown menu
  
 ## Example Website App
 
