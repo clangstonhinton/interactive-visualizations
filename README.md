@@ -8,7 +8,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Approach
 
 (1) Use MongoDB with Flask templating, created a new HTML page that displays all of the information that was scraped from the URLs above.
-(2) Use
+(2) Use another thing to do another thing
+(3) Use another thing to do another thing
+(4) Use another thing to do another thing
 
 (1) Use the D3 library to read in samples from the URL dataset
 
