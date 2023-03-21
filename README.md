@@ -7,22 +7,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Approach
 
-(1) Use MongoDB with Flask templating, created a new HTML page that displays all of the information that was scraped from the URLs above.
-(2) Use another thing to do another thing
-(3) Use another thing to do another thing
-(4) Use another thing to do another thing
-
-(1) Use the D3 library to read in samples from the URL dataset
-
-(2) Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in each study participant
-
-(3) Created a bubble chart that displays all the OTU samples collected from the study participant
-
-(4) Created a gauge chart that depicts the number of weekly belly button washings for each participant
-
-(5) Displayed the metadata (demographic information) for each participant including: ID, ethnicity, age, gender, location and washing frequency
-
-(6) All the charts and metadata changes when a new study participant is selected in the dropdown menu
+- Use the D3 library to read in samples from the URL dataset
+- Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in each study participant
+- Created a bubble chart that displays all the OTU samples collected from the study participant
+- Created a gauge chart that depicts the number of weekly belly button washings for each participant
+- Displayed the metadata (demographic information) for each participant including: ID, ethnicity, age, gender, location and washing frequency
+- All the charts and metadata changes when a new study participant is selected in the dropdown menu
  
 ## Example Website App
 
