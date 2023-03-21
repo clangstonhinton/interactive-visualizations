@@ -7,6 +7,9 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Approach
 
+(1) Use MongoDB with Flask templating, created a new HTML page that displays all of the information that was scraped from the URLs above.
+(2) Use
+
 (1) Use the D3 library to read in samples from the URL dataset
 
 (2) Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in each study participant
