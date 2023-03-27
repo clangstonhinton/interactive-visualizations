@@ -16,7 +16,7 @@ The dataset reveals that a small handful of microbial species (also called opera
  
 ## Example Website App
 
-- To see the live version of the website application, download the source code and launch index.html. 
+- To see the live version of the website application, download the source code and launch index.html or follow this link: https://clangstonhinton.github.io/interactive-visualizations/. 
 
 
 ## Technology
