@@ -18,6 +18,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 - To see the live version of the website application, download the source code and launch index.html or follow this link: https://clangstonhinton.github.io/interactive-visualizations/. 
 
+<img width="348" alt="belly_button_dashboard" src="https://user-images.githubusercontent.com/44728723/227972925-e13f7ac6-95fd-46ab-91c3-c1904ec670dc.png">
+
 
 ## Technology
 - JavaScript
